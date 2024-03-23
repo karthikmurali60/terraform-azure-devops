@@ -21,6 +21,8 @@ terraform {
   }   
 }
 
+# Add a comment to trigger the pipeline
+
 # Provider Block
 provider "azurerm" {
  features {}          
