@@ -23,6 +23,7 @@ terraform {
 
 # Add a comment to trigger the pipeline
 # Add a comment to trigger the Prod pipeline
+# Add a comment to verify if build pipeline is disabled
 
 # Provider Block
 provider "azurerm" {
